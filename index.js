@@ -10,7 +10,7 @@ export const applyCustomCode = async (externalCodeSetup) => {
     license: "PD6ATUIXD67KXP2", // Enter your 15 digit Blockli App Kit license key here. See your account dashboard at https://blockli.dev/dashboard
     app_id: config.app_id,
     code: externalCodeSetup,
-    website: "https://goodcatholicld.trinityroad.dev", // Enter your app domain here with NO trailing slash.
+    website: "https://www.goodcatholic.com", // Enter your app domain here with NO trailing slash.
     // NOTE: If you have a staging site, please use a different Git branch for your test app and COPY this entire code to the test branch and enter the staging site domain. 
   };
 
